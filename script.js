@@ -1,15 +1,3 @@
-// Dark Mode Button
-
-const darkModeButton = document.getElementById("darkModeBtn");
-
-// Add Click Event
-
-darkModeButton.addEventListener("click", function () {
-
-    document.body.classList.toggle("dark-mode");
-
-});
-
 // Copy Email Button
 
 const copyButton = document.getElementById("copyBtn");
